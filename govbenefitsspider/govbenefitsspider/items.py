@@ -1,14 +1,15 @@
 # -*- coding: utf-8 -*-
 
-# Define here the models for your scraped items
-#
-# See documentation in:
-# http://doc.scrapy.org/en/latest/topics/items.html
-
 import scrapy
 
 
-class GovbenefitsspiderItem(scrapy.Item):
-    # define the fields for your item here like:
-    # name = scrapy.Field()
-    pass
+class BenefitProgramItem(scrapy.Item):
+    title = scrapy.Field()
+    details_link = scrapy.Field()
+    description = scrapy.Field()
+
+
+class BenefitProgramDetail(scrapy.Item):
+    title = scrapy.Field()
+    agency = scrapy.Field()
+    state_link = scrapy.Field()
