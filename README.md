@@ -54,7 +54,7 @@ A Jupyter notebook showing three very basic but useful ways to use Pandas for da
 
 ### Instructions
 
-1. Run the **Three Pandas Tips for Pandas Noobs* notebook and enjoy the awesome.
+1. Run the *Three Pandas Tips for Pandas Noobs* notebook and enjoy the awesome.
 
 
 ## PBIC Pricing Scraper (pbic-pricing-scraper)
@@ -85,5 +85,5 @@ Code and fake dataset used to show how to create and train a predictive model.
 
 ### Instructions
 
-1. Run the **TLO Validation With Logistic Regression V3** notebook to see an example of creating and training a LogisticRegression model.
-2. Run the **Apply The Logistic Model To New TLO Data** notebook to see how to apply the model to new observations (data).
+1. Run the *TLO Validation With Logistic Regression V3* notebook to see an example of creating and training a LogisticRegression model.
+2. Run the *Apply The Logistic Model To New TLO Data* notebook to see how to apply the model to new observations (data).
